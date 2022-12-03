@@ -2,7 +2,7 @@ import axios from 'axios'
 import { useEffect, useState } from 'react'
 
 import './App.css' 
-import Loading from './components/loading'
+import Loading from './components/Loading'
 import WeatherCard from './components/WeatherCard'
 
 function App() {
